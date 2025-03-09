@@ -1,5 +1,5 @@
 # OpenAI-Image-Generator--public
-C# classes constructing the WinForms Image generator that uses the dedicated OpenAI API
+public C# classes constructing the WinForms Image generator that uses the dedicated OpenAI API
 
 This program fully takes advantage of all OpenAI's Image Generator API's functionalities. 
 
